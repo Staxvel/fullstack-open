@@ -1,2 +1,2 @@
 # fullstack-open
-My submissions for Full Stack Open
+<b>This repository contains my submissions for <a href="https://fullstackopen.com/en/">FULL STACK OPEN COURSE</a>.</b>
